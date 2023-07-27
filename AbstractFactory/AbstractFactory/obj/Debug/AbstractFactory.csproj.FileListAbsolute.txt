@@ -1,0 +1,8 @@
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.SuggestedBindingRedirects.cache
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
